@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Tamara Butigan
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Tamara
+last_name: Butigan
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Translator
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,22 +26,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Translation
+  - Machine Translation
+  - Data science
+  - Psycholinguistics
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  PhD University of Auckland (2020-2024)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
